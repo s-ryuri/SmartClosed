@@ -27,7 +27,9 @@
 
 - Deep Learning
   - 추후 작성 예정
-  
+
+- 음성인식
+  - [네이버 클로바 음성합성 API](https://www.ncloud.com/product/aiService/css)
 
 # Member
 
