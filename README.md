@@ -19,13 +19,28 @@
 
 - [시각장애인을 위한 딥러닝과 이미지인식을
 이용한 스마트 옷장](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202002761569551&oCn=JAKO202002761569551&dbt=JAKO&journal=NJOU00560240)
-## Member
+
+# 상세설명
+
+- 라즈베리 파이
+  - 추후 작성 예정
+
+- AWS
+  - 추후 작성 예정
+
+- Deep Learning
+  - 추후 작성 예정
+  
+  
+# Member
 
 - [위성률](https://github.com/s-ryuri)
   - _Department of Industrial Engineering_
   - _Department of Computer Engineering_
+  - [Naver](https://blog.naver.com/fbfbf1)
 - [박희재](https://github.com/HeeJaeMon123)
   - _Department of Computer Engineering_
+  - [Tistory](https://heejaemon123.tistory.com/)
 - [변현수]()
   - _Department of Industrial Engineering_
   - _Department of Computer Engineering_
