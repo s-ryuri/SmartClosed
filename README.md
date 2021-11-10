@@ -15,14 +15,11 @@
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-# 참고문헌
 
-- [시각장애인을 위한 딥러닝과 이미지인식을
-이용한 스마트 옷장](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202002761569551&oCn=JAKO202002761569551&dbt=JAKO&journal=NJOU00560240)
 
 # 상세설명
 
-- 라즈베리 파이
+- 라즈베리파이
   - 추후 작성 예정
 
 - AWS
@@ -31,7 +28,7 @@
 - Deep Learning
   - 추후 작성 예정
   
-  
+
 # Member
 
 - [위성률](https://github.com/s-ryuri)
@@ -44,3 +41,8 @@
 - [변현수]()
   - _Department of Industrial Engineering_
   - _Department of Computer Engineering_
+
+# 참고문헌
+
+- [시각장애인을 위한 딥러닝과 이미지인식을
+이용한 스마트 옷장](https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202002761569551&oCn=JAKO202002761569551&dbt=JAKO&journal=NJOU00560240)
